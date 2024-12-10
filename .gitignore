@@ -2,8 +2,4 @@
 package.json
 package-lock.json
 node_modules/
-# as pastas de estenções do vs 
-.history/
 
-#pasta gerada pelo vscode
-.vscode/
