@@ -1,7 +1,4 @@
-# argivos de depedencias 
-package.json
-package-lock.json
-node_modules/
-
-#pasta com coisas sensiveis
-.env
+# modulo de instalação
+Cargo.toml
+Cargo.lock
+target/
