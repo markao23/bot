@@ -13,3 +13,4 @@ bot-test-*
 *.o
 *.obj
 *.lst
+dub.json
