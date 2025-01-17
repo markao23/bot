@@ -5,6 +5,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Simulação de Fazenda")
 clock = pygame.time.Clock()
+running = True
 
 def draw_scenario(screen):
     # Campos de cultivo
